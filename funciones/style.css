@@ -1,0 +1,12 @@
+#mostrar{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color:rgb(232, 208, 176);
+    width: 100%;
+}
+#contenedor{
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}

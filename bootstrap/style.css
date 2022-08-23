@@ -1,0 +1,25 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+#logo2{
+  height: 100px;
+  width: 400px;
+}
+
+.carrusel{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+#formulario{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color:rgb(232, 208, 176);
+    width: 100%;
+}
