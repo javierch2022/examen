@@ -10,3 +10,14 @@
     text-align: center;
     width: 100%;
 }
+
+.caja{
+    
+    width:80px;
+    border:3px solid;
+    margin: 20px;
+    padding: 5px;
+    background-color:brown;
+    display: inline-block;
+    font-size: 36px;
+}
